@@ -19,3 +19,5 @@ REQUIREMENTS
 - python
 
 Enjoy!
+
+![Alt text](https://github.com/GabrielTorland/chess/blob/main/game_image.png "Game image")
