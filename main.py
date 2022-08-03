@@ -3,6 +3,11 @@ from Helpers.game import play_game
 from Helpers.main_menu import menu
 from Helpers.play_menu import play_menu
 
+# Change working directory
+abspath = os.path.abspath(__file__)
+dname = os.path.dirname(abspath)
+os.chdir(dname)
+
 
 def main():
     running = True
