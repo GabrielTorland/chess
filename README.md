@@ -1,23 +1,23 @@
-# chess
+# Chess
 
-INTRODUCTION
+## Instructions
 ------------
-After my first year of studying computer science, I was excited to start developing. My professor recommended the class to try pygame; as it would help us improve our python skills. Pygame is usualy used to develop games, so I decided to develop chess. Chess is something that I allways found interesting and I was excited to try creating a chess-AI afterward.
+After completing my first year of studying computer science, I was eager to start working on my own projects. My professor suggested using pygame, a popular library for creating games in Python. I thought it would be a great way to improve my Python skills and have some fun at the same time. I decided to develop a chess game, as I am a fan of the game and I wanted to challenge myself. I also had an idea to create a chess bot using machine learning in the future.
 
-The game is developed in pygame which is a game engine in python.
+The game is developed using pygame, a game engine in python.
 
-DETAILS 
+## details
 ------------
-- Keep in mind that I only had 1 year of experience when I developed this game.
-- When clicking a chess piece, the possible moves is shown.
-- There is only two player mode.
-- Soundeffects are implemented.
-- Good looking game menu.
+- Please keep in mind that I only had one year of experience when I developed this game.
+- When you click on a chess piece, the possible moves are shown.
+- The game only has two-player mode.
+- Sound effects are implemented.
+- The game has a visually appealing menu.
 
-REQUIREMENTS
+## requirements
 ------------
-- Use requirements.txt to download required packages.
+- Use the requirements.txt file to download the required packages.
 
-Enjoy!
+I hope you enjoy the game!
 
 ![Alt text](https://github.com/GabrielTorland/chess/blob/main/readme_assets/game_image.png "Game image")
